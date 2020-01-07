@@ -1,7 +1,6 @@
 ## Top 10 Youtube channels for Flutter developers (2020)
 
-It's 2020 and the rate of which Flutter is trending is increasing exponentially, and learning can be difficult if people are not been pointed to the right resources, and to make learning more easier and faster that's why I decided to compile a list of youtube channel flutter developers can subscribe to.
-
+It's 2020 and the rate in which Flutter is trending is increasing exponentially, and learning can be difficult if people are not been pointed to the right resources. With the below-curated list of the youtube channel, I believe it will help flutter developers to learn and master the Flutter.
 
 ### [Official Flutter Youtube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw/videos)  
 Flutter Youtube channel is a goto place to learn things about flutter, the Flutter team has published various content on flutter. you will get to know things about different widgets, Google IO videos content on flutter, Flutter Interact and lot more.
@@ -57,7 +56,7 @@ Another Youtube channel to explore its content is FilledStack. FilledStack has c
 %[https://youtu.be/NfvA-7-HzYk]
 
 
- [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 
+ ### [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 
 
 The Net Ninja is a youtube channel that has a lot of amazing content not only flutter also various content across all areas on the web.  The Net Ninja channel was created and managed by Shaun. Shaun is a Udemy instructor who is obsessed with technology and loves creating content around it.
 
